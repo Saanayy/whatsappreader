@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">whatsappreader</string>
+    <string name="service_name">Notification service</string>
+</resources>
